@@ -1,172 +1,250 @@
 <div align="center">
-
-<img src="assets/Logo.png" alt="CivicPulse Logo" width="120" height="120" onerror="this.style.display='none'"/>
-
-# 🏛️ CivicPulse
-### *Your City. Your Voice. Your Change.*
-
-**A modern, full-featured civic issue reporting platform that bridges the gap between citizens and local authorities.**
-
-[![Made with HTML](https://img.shields.io/badge/Made%20with-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Styled with CSS](https://img.shields.io/badge/Styled%20with-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Powered by JS](https://img.shields.io/badge/Powered%20by-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Google Maps](https://img.shields.io/badge/Google%20Maps-API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://developers.google.com/maps)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+<br/>
+<img src="assets/Logo.png" alt="" width="100"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/7eef1969-1d90-4d76-8ac7-5d30cb07a1b7" 
+     alt="CivicPulse Preview" width="100"/>
+<h1>🏛️ CivicPulse</h1>
+<h3><i>Your City. Your Voice. Your Change.</i></h3>
+<p>
+A modern civic issue reporting platform that bridges the gap between citizens and local authorities — 
+built with zero dependencies and pure vanilla web tech.
+</p>
 
 <br/>
 
-[🚀 Live Demo](#) · [🐛 Report a Bug](../../issues) · [✨ Request a Feature](../../issues)
+</div>
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://developers.google.com/maps)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 
 <br/>
 
-> **Built for Hackathon** — Zero dependencies. Zero build steps. Pure vanilla power. 💪
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-2563eb?style=for-the-badge)](#)
+[![Report Bug](https://img.shields.io/badge/🐛%20Report%20Bug-Open%20Issue-ef4444?style=for-the-badge)](../../issues)
+[![Request Feature](https://img.shields.io/badge/✨%20Request%20Feature-Open%20Issue-a855f7?style=for-the-badge)](../../issues)
+
+<br/>
+
+> 💡 **Zero dependencies · Zero build steps · Zero excuses** — just open and go.
+
+<br/>
 
 </div>
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
 <div align="center">
 
-| Home Dashboard | Issue Reporting | Issue Tracking |
-|:-:|:-:|:-:|
-| ![Home](https://via.placeholder.com/280x180/2563eb/ffffff?text=Home+Dashboard) | ![Report](https://via.placeholder.com/280x180/10b981/ffffff?text=Report+Issue) | ![Track](https://via.placeholder.com/280x180/f59e0b/ffffff?text=Track+Status) |
-
-| Agent Dashboard | Find Workers | Reviews |
-|:-:|:-:|:-:|
-| ![Agent](https://via.placeholder.com/280x180/6366f1/ffffff?text=Agent+Dashboard) | ![Workers](https://via.placeholder.com/280x180/ec4899/ffffff?text=Find+Workers) | ![Reviews](https://via.placeholder.com/280x180/14b8a6/ffffff?text=Community+Reviews) |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/c0459827-6cb3-4f62-a968-fb1d3983da04" width="100%" alt="Home Dashboard"/>
+      <br/><sub><b>🏠 Home Dashboard</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/19a012d9-b1d2-41ae-8fbc-bee94ca7fb30" width="100%" alt="Issue Reporting"/>
+      <br/><sub><b>📝 Issue Reporting</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/56a64b20-4df9-4dd5-98ea-79199a4fa016" width="100%" alt="Issue Tracking"/>
+      <br/><sub><b>🔍 Issue Tracking</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/1f413fb4-326c-4591-94e3-c6bafc48ab0c" width="100%" alt="Dashboard"/>
+      <br/><sub><b>📊 Live Dashboard</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/afc1281b-1253-45b3-8b2b-20897588da11" width="100%" alt="Agent Dashboard"/>
+      <br/><sub><b>🕵️ Agent Dashboard</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/4cc661d6-ce05-4847-8f50-d4976064f8e3" width="100%" alt="Find Workers"/>
+      <br/><sub><b>👷 Find Workers</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## ✨ Why CivicPulse?
+## 🤔 Why CivicPulse?
 
-Potholes ignored. Streetlights broken for months. Illegal dumping with no action taken.
+<div align="center">
 
-Sound familiar?
+> *Potholes ignored. Streetlights dark for months. Illegal dumping with no response.*
+> **Sound familiar?**
 
-**CivicPulse** puts the power back in citizens' hands — a one-stop platform to report, track, upvote, and resolve local civic issues, with full community collaboration and a dedicated agent workflow baked right in.
+</div>
+
+CivicPulse puts the power back in citizens' hands. Instead of making helpless phone calls or sending emails into the void, residents can **report, track, upvote, and follow up** on local issues — all from one beautiful interface — while agents and workers have dedicated dashboards to act on them fast.
 
 ---
 
-## 🚀 Feature Highlights
+## ✨ Feature Highlights
 
-### 🗺️ Smart Issue Reporting
+<details open>
+<summary><b>🗺️ Smart Issue Reporting</b></summary>
+<br/>
+
 - Submit issues with title, description, category, and precise GPS coordinates
-- Interactive **Google Maps** integration — search or tap to pin your exact location
-- Optional **image upload** to give visual context to your report
-- Instant **Issue ID** generated for tracking upon submission
+- Interactive **Google Maps** — search by address or tap to drop a pin anywhere
+- Optional **photo upload** to give visual evidence to your report
+- Instant **unique Issue ID** generated on submission for tracking
 
-### 📊 Live Issue Dashboard
-- View all community-reported issues in a responsive card grid
-- **Filter** by category (Infrastructure, Safety, Environment, Transportation, Utilities)
+</details>
+
+<details open>
+<summary><b>📊 Live Issue Dashboard</b></summary>
+<br/>
+
+- All community issues displayed in a responsive card grid
+- **Filter** by category: Infrastructure · Safety · Environment · Transportation · Utilities
 - **Filter** by status: `Open` → `In Progress` → `Resolved`
 - **Sort** by Newest, Oldest, or Most Upvoted
 
-### 🔍 Issue Tracking
-- Track any issue's full lifecycle using its unique **Issue ID**
-- Visual **progress stepper** showing current resolution stage
-- Real-time status updates
+</details>
 
-### 👷 Find Workers
-- Browse and connect with verified local service workers
-- Worker **registration** portal built-in
-- Helps fast-track resolution for reported issues
+<details open>
+<summary><b>🔍 Issue Tracking</b></summary>
+<br/>
 
-### 🕵️ Agent Dashboard
-- Dedicated view for civic agents and authority personnel
-- Manage, assign, and update issue statuses from one place
-- Streamlined workflow for faster community response
+- Enter any Issue ID to track its full resolution lifecycle
+- Visual **progress stepper** showing exactly where an issue stands
+- Real-time status updates as agents act on reports
 
-### 💬 Community Interaction
-- **Upvote** issues to signal urgency and community support
-- **Comment** on any issue to add context or updates
-- **Reviews page** for community feedback and transparency
+</details>
 
-### 🌐 Multilingual Support
-Built to serve diverse communities — supports:
+<details open>
+<summary><b>🕵️ Agent Dashboard</b></summary>
+<br/>
 
-| Language | Code |
-|---|---|
+- Dedicated portal for civic agents and municipal authority personnel
+- Manage, assign, and update issue statuses from a single view
+- Streamlined workflow built for speed and accountability
+
+</details>
+
+<details open>
+<summary><b>👷 Find Workers</b></summary>
+<br/>
+
+- Browse verified local service workers by skill and availability
+- Built-in **worker registration** portal
+- Directly links citizen reports to on-ground resolution
+
+</details>
+
+<details open>
+<summary><b>💬 Community Interaction</b></summary>
+<br/>
+
+- **Upvote** issues to signal urgency to authorities
+- **Comment** on issues to share updates or context
+- **Reviews page** for transparent community feedback
+
+</details>
+
+<details open>
+<summary><b>🌐 Multilingual Support</b></summary>
+<br/>
+
+Built for India's diverse communities — switch languages instantly:
+
+| 🌐 Language | Code |
+|---|:---:|
 | English | `en` |
-| Hindi (हिंदी) | `hi` |
-| Telugu (తెలుగు) | `te` |
-| Tamil (தமிழ்) | `ta` |
-| Kannada (ಕನ್ನಡ) | `kn` |
+| Hindi — हिंदी | `hi` |
+| Telugu — తెలుగు | `te` |
+| Tamil — தமிழ் | `ta` |
+| Kannada — ಕನ್ನಡ | `kn` |
 
-### 🤖 Built-in AI Chatbot
-- Floating **CivicPulse Assistant** chatbot available on every page
-- Instant answers to user queries about the platform
+</details>
 
-### 🔐 User Authentication
-- Full **Login / Register** system with form validation
-- Profile management with optional email or phone signup
-- Session-aware navigation (profile icon, logout)
+<details open>
+<summary><b>🤖 AI Chatbot Assistant</b></summary>
+<br/>
 
-### 🎨 Design & UX
-- **Mobile-first** responsive design — works flawlessly on all screen sizes
-- Smooth animations, hover effects, and micro-interactions
-- **Toast notifications** for instant action feedback
-- **Modal dialogs** for detailed issue views and comments
-- Respects `prefers-reduced-motion` for accessibility
+- Floating **CivicPulse Assistant** available on every page
+- Helps users navigate the platform, submit issues, or find information instantly
+
+</details>
+
+<details open>
+<summary><b>🔐 User Authentication</b></summary>
+<br/>
+
+- Full **Login / Register** flow with validation
+- Sign up via email or phone number
+- Session-aware UI — profile icon, protected routes, logout
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```
-Frontend Only — No frameworks, no build tools, no complexity.
+No frameworks. No bundlers. No node_modules. Just the web platform — used well.
 ```
 
-| Technology | Purpose |
+| Technology | Role |
 |---|---|
-| **HTML5** | Semantic structure, ARIA accessibility |
-| **CSS3** | Responsive layout, animations, CSS variables |
-| **Vanilla JavaScript** | All app logic, state management, DOM manipulation |
-| **Google Maps JS API** | Interactive maps, location search, coordinate picking |
-| **LocalStorage API** | Client-side persistent data storage |
+| **HTML5** | Semantic structure, ARIA accessibility, modals, forms |
+| **CSS3** | Mobile-first responsive layout, CSS variables, animations |
+| **Vanilla JavaScript** | Routing, CRUD, state management, DOM manipulation |
+| **Google Maps JS API** | Interactive maps, coordinate picking |
 | **Google Places API** | Address autocomplete |
+| **LocalStorage API** | Client-side persistent data storage |
 
 ---
 
 ## ⚡ Quick Start
 
-### 1. Clone the repository
+### 1. Clone
 
 ```bash
 git clone https://github.com/your-username/civicpulse.git
 cd civicpulse
 ```
 
-### 2. Set up Google Maps API Key
+### 2. Add your Google Maps API Key
 
-1. Visit [Google Cloud Console](https://console.cloud.google.com/)
-2. Create or select a project
-3. Enable **Maps JavaScript API** and **Places API**
-4. Generate an API Key under **Credentials**
-5. Open `index.html` and replace `YOUR_API_KEY`:
+1. Go to [Google Cloud Console](https://console.cloud.google.com/)
+2. Enable **Maps JavaScript API** + **Places API**
+3. Create an API Key under **Credentials**
+4. Replace `YOUR_API_KEY` in `index.html`:
 
 ```html
 <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places" async defer></script>
 ```
 
-> 🔒 **Security Tip:** Restrict your API key to your domain in the Google Cloud Console before going live.
+> 🔒 **Pro tip:** Restrict your key to your domain in the console before going live.
 
-### 3. Launch
+### 3. Open & Run
 
 ```bash
-# Option A — Just open in browser
+# Option A — Just open directly
 open index.html
 
-# Option B — Use a local server (recommended)
+# Option B — Local dev server (recommended)
 npx serve .
-# or
+
+# Option C — Python
 python -m http.server 8080
 ```
 
-That's it. **No npm install. No build step. No config files.** 🎉
+**No `npm install`. No `webpack`. No `.env` setup. Just works. ✅**
 
 ---
 
@@ -175,34 +253,34 @@ That's it. **No npm install. No build step. No config files.** 🎉
 ```
 civicpulse/
 │
-├── 📄 index.html          # App shell — all pages, modals, navigation
-├── 🎨 styles.css          # Full styling — responsive, animated, themed
-├── ⚙️  script.js           # All functionality — routing, CRUD, maps, auth
-├── 📁 assets/             # Logo and static assets
-└── 📖 README.md           # You are here!
+├── 📄 index.html        ← App shell: all pages, modals & navigation
+├── 🎨 styles.css        ← Complete styling: responsive, animated, themed
+├── ⚙️  script.js         ← All logic: routing, CRUD, maps, auth, i18n
+├── 📁 assets/           ← Logo and static assets
+└── 📖 README.md         ← You are here
 ```
 
 ---
 
-## 🗄️ Data Structure
+## 🗄️ Data Schema
 
-Issues are stored in `localStorage` with the following schema:
+Issues are stored in `localStorage` with this structure:
 
-```javascript
+```js
 {
-  id:          "unique-uuid",
+  id:          "uuid-v4",
   title:       "Broken streetlight on MG Road",
-  description: "The streetlight near the bus stop has been broken for 3 weeks.",
-  category:    "infrastructure",       // infrastructure | safety | environment | transportation | utilities | other
-  status:      "open",                 // open | in-progress | resolved
+  description: "Has been dark for 3 weeks near the bus stop.",
+  category:    "infrastructure",   // infrastructure | safety | environment | transportation | utilities | other
+  status:      "open",             // open | in-progress | resolved
   location:    "MG Road, Bengaluru",
   lat:         12.9716,
   lng:         77.5946,
-  image:       "base64-string | null",
+  image:       "base64 | null",
   upvotes:     14,
   upvotedBy:   ["user-id-1"],
   comments: [
-    { id: "cmt-1", text: "Still broken as of today!", date: "2025-04-10T08:00:00Z" }
+    { id: "cmt-1", text: "Still dark tonight!", date: "2025-04-10T08:00:00Z" }
   ],
   createdAt:   "2025-04-01T10:00:00Z",
   updatedAt:   "2025-04-10T08:30:00Z"
@@ -213,106 +291,110 @@ Issues are stored in `localStorage` with the following schema:
 
 ## 🎨 Customization
 
-### Changing Theme Colors
-
-Edit the CSS variables in `styles.css`:
+### Theme Colors
 
 ```css
+/* styles.css */
 :root {
-  --primary-color:   #2563eb;   /* Main brand blue */
-  --secondary-color: #10b981;   /* Success green */
-  --accent-color:    #f59e0b;   /* Warning amber */
-  --danger-color:    #ef4444;   /* Error red */
-  --bg-color:        #f8fafc;   /* Page background */
+  --primary-color:    #2563eb;  /* Brand blue      */
+  --secondary-color:  #10b981;  /* Success green   */
+  --accent-color:     #f59e0b;  /* Warning amber   */
+  --danger-color:     #ef4444;  /* Error red       */
+  --bg-color:         #f8fafc;  /* Page background */
 }
 ```
 
-### Adding New Issue Categories
+### Add a Category
+1. Add `<option>` to the category `<select>` in `index.html`
+2. Update `categoryLabels` object in `script.js`
 
-1. Add an `<option>` to the category `<select>` in `index.html`
-2. Update the `categoryLabels` object in `script.js`
-
-### Adding a New Language
-
-1. Add a new `<option>` in the language `<select>` in `index.html`
+### Add a Language
+1. Add `<option>` to the language `<select>` in `index.html`
 2. Add translation keys to the `translations` object in `script.js`
 
 ---
 
 ## ♿ Accessibility
 
-CivicPulse is built with accessibility as a first-class concern:
-
-- ✅ Semantic HTML5 elements throughout
-- ✅ ARIA roles and labels on all interactive elements
-- ✅ Full keyboard navigation support
-- ✅ Focus management on modal open/close
-- ✅ Screen reader compatible
-- ✅ `prefers-reduced-motion` media query respected
-- ✅ Sufficient color contrast ratios
+| Feature | Status |
+|---|:---:|
+| Semantic HTML5 elements | ✅ |
+| ARIA roles & labels | ✅ |
+| Full keyboard navigation | ✅ |
+| Focus management on modals | ✅ |
+| Screen reader compatible | ✅ |
+| `prefers-reduced-motion` support | ✅ |
+| Sufficient color contrast | ✅ |
 
 ---
 
 ## 🌱 Roadmap
 
-Things we'd love to add next:
-
-- [ ] 🔗 Backend API integration (Node.js / Firebase / Supabase)
-- [ ] 📧 Email & SMS notifications on status updates
-- [ ] ☁️ Cloud image storage (Cloudinary / S3)
-- [ ] 🔎 Advanced full-text search
-- [ ] 📤 Export issues to PDF / CSV
-- [ ] 🗺️ Heatmap view of issue density by area
-- [ ] 📱 PWA support — installable as a mobile app
+- [ ] 🔗 Backend API (Node.js / Firebase / Supabase)
+- [ ] 📧 Email & SMS notifications on status change
+- [ ] ☁️ Cloud image storage (Cloudinary / AWS S3)
+- [ ] 🔎 Full-text issue search
+- [ ] 📤 Export to PDF / CSV
+- [ ] 🗺️ Issue density heatmap
+- [ ] 📱 PWA — installable on mobile home screen
 - [ ] 🔔 Push notifications
-- [ ] 📊 Analytics dashboard for authorities
-- [ ] 🌍 More regional language support
+- [ ] 📊 Authority analytics dashboard
+- [ ] 🌍 More Indian regional languages
 
 ---
 
 ## 🤝 Contributing
 
-Contributions make open source great! Here's how to get involved:
+All contributions are welcome — big or small!
 
 ```bash
-# 1. Fork the repo
+# 1. Fork the repo & clone it
+git clone https://github.com/your-username/civicpulse.git
+
 # 2. Create your feature branch
-git checkout -b feature/amazing-feature
+git checkout -b feature/your-feature-name
 
-# 3. Commit your changes
-git commit -m "feat: add amazing feature"
+# 3. Make your changes and commit
+git commit -m "feat: describe your change"
 
-# 4. Push to the branch
-git push origin feature/amazing-feature
-
-# 5. Open a Pull Request
+# 4. Push and open a Pull Request
+git push origin feature/your-feature-name
 ```
-
-Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a PR.
 
 ---
 
 ## 🙌 Acknowledgements
 
-- [Google Maps Platform](https://developers.google.com/maps) for location services
-- [MDN Web Docs](https://developer.mozilla.org/) — always the best reference
-- Every civic-minded developer who believes tech can fix potholes 🕳️
+- [Google Maps Platform](https://developers.google.com/maps) — for making location effortless
+- [MDN Web Docs](https://developer.mozilla.org/) — the ultimate reference
+- Every developer who believes tech should serve communities, not just companies 🌍
 
 ---
 
 ## 📄 License
 
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
+Distributed under the **MIT License** — free to use, modify, and share. See [`LICENSE`](LICENSE) for details.
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for communities everywhere**
+<br/>
 
-*If CivicPulse helps your city — give it a ⭐ and spread the word!*
+**Made with ❤️ for every city, every citizen, every complaint that deserves an answer.**
+
+<br/>
+
+*Found this useful? Drop a ⭐ — it means the world and helps others discover it!*
+
+<br/>
 
 [![GitHub stars](https://img.shields.io/github/stars/your-username/civicpulse?style=social)](../../stargazers)
+&nbsp;&nbsp;
 [![GitHub forks](https://img.shields.io/github/forks/your-username/civicpulse?style=social)](../../forks)
+&nbsp;&nbsp;
+[![GitHub issues](https://img.shields.io/github/issues/your-username/civicpulse?style=social)](../../issues)
+
+<br/>
 
 </div>
