@@ -23,7 +23,7 @@ built with zero dependencies and pure vanilla web tech.
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-2563eb?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-2563eb?style=for-the-badge)](https://Shahnawaz9493.github.io/civic_pulse/)
 [![Report Bug](https://img.shields.io/badge/🐛%20Report%20Bug-Open%20Issue-ef4444?style=for-the-badge)](../../issues)
 [![Request Feature](https://img.shields.io/badge/✨%20Request%20Feature-Open%20Issue-a855f7?style=for-the-badge)](../../issues)
 
