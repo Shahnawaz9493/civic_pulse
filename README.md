@@ -419,18 +419,11 @@ Please make sure your code is clean, well-commented, and tested before opening a
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License** — free to use, modify, and share.
-See [`LICENSE`](LICENSE) for full details.
-
----
-
 <div align="center">
 
 <br/>
 
-<img src="assets/Logo.png" alt="CivicPulse" width="60"/>
+<img src="Logo.png" alt="CivicPulse" width="60"/>
 
 <br/>
 
